@@ -1,0 +1,956 @@
+#EXTM3U
+
+# DEVICE TYPE: NONSPECIFIC_M3U8_SIMPLE
+# EXTM3U without tags
+
+#EXTINF:0,TVP HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c494-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 1 HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c468-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 2 HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c420-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1799-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c433-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP Kobieta
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1797-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP World
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1704-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP World HD
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c1819-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Białystok
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1707-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Bydgoszcz
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1713-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Gdańsk
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1767-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Gorzów
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1784-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Katowice
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1768-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Kraków
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1699-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Kielce
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1705-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Łódź
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1602-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Lublin
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1673-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Olsztyn
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1700-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Opole
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1717-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Poznań
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1780-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Rzeszow
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1698-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Szczecin
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1783-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP 3 Wroclaw
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1781-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polonia 1
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c547-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP Nauka HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1810-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP Polonia
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c504-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP Seriale
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c371-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP Rozrywka
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c503-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP Rozrywka HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1798-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP Kultura HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c515-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP Wilno HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1381-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVN HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c414-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVN 7 HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c386-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c532-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat 2 HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c517-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Super Polsat HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c407-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TV Puls HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c365-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Puls 2 HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1671-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TV 4 HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c529-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TV 6 HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c350-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Tele 5
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c548-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Metro
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c345-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Metro HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1796-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,WP
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c359-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Nowa TV
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c533-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Zoom TV
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c444-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVC
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c498-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVS
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c377-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,13 Ulica HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c415-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,FOX HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c375-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,FOX Comedy HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c436-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Comedy Central HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c406-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Comedy Central Extra
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c353-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,AXN HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c507-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,AXN
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c389-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,AXN Spin HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c522-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,AXN Black
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c461-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,AXN White
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c398-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TTV HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c463-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,BBC First
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c402-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Epic Drama HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c488-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Romance TV
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c338-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Novela TV
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c546-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,HGTV HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c477-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Canal+ Domo HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c482-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Canal+ Kuchnia HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c514-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVN Style HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c457-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Rodzina
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c378-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Cafe HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c381-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Seriale HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c1004-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Play HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c445-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Food Network HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c426-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Water Planet
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c549-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Travel Channel HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c440-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Adventure HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c408-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TLC HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c495-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,E! Entertainment
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c519-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Active Family
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c354-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Red Carpet TV
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c537-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,AMC
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c454-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Warner TV HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c393-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Paramount Network HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c518-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Ale kino+ HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c401-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Canal+ Premium HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c431-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Canal+ 1 HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c527-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Canal+ Film HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c516-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Canal+ Family HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c496-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Canal+ Seriale HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c464-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,CANAL+ 4K Ultra HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c666-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Novelas+ HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c1365-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,HBO HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c487-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,HBO 2 HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c438-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,HBO 3 HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c379-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Cinemax HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c356-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Cinemax 2 HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c439-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Film HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c421-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVN Fabula HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c341-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Stopklatka TV
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c510-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Kino Polska HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c486-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Kino TV HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c475-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Filmbox Premium HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c443-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Filmbox Extra HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c425-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Filmbox Action
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c418-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Filmbox Family
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c459-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Filmbox ArtHouse
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c497-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Sundance TV HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c451-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,CBS Europe HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c530-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,SciFi HD
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c392-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat VOD 202
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c974-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat VOD 203
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c975-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat VOD 204
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c976-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat VOD 205
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c364-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat VOD 206
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c383-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat VOD 207 
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c491-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat VOD 208
+#EXTGRP:Film
+https://my.teleelevidenie.com/play/hls-custom-c390-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,BBC Brit HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c430-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,BBC Earth HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c346-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Planete+ HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c541-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,History HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c474-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,H2 HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c400-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Canal+ Dokument HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c458-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c342-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Discovery Science HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c531-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Discovery Life HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c349-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Discovery Historia
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c455-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,DTX HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c382-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,ID HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c508-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,National Geographic HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c360-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c449-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Nat Geo People HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c485-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Viasat Explore HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c428-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Viasat History HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c492-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Viasat Nature HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c419-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,CI Polsat HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c476-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Doku HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c397-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c434-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Da Vinci Learning
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c395-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,CBS Reality
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c344-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,BBC Lifestyle HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c448-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Fokus TV
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c380-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP Historia
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c523-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP Historia 2
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c1793-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP Dokument HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c1294-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c481-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c372-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Eleven Sports 1 4K
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c1597-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Eleven Sports 1 HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c343-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Eleven Sports 2 HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c450-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Eleven Sports 3 HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c502-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Eleven Sports 4 HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c416-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c376-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport Extra HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c490-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport News HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c540-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport Fight HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c511-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport Premium 1
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c452-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport Premium 2
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c417-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport Premium 3
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c480-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport Premium 4
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c337-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport Premium 5
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c348-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport Premium 6
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c352-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport Premium 1 [HEVC/low]
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c1607-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport Premium 2 [HEVC/low]
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c1608-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport Premium 3 [HEVC/low]
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c1609-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport Premium 4 [HEVC/low]
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c1610-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport Premium 5 [HEVC/low]
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c1611-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Sport Premium 6 [HEVC/low]
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c1612-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Canal+ Sport HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c483-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Canal+ Sport 2 HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c469-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Canal+ Sport 3 HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c841-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Canal+ Sport 4 HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c840-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Canal+ Now
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c387-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Canal+ Sport 5 HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c489-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP Sport HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c484-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVN Turbo HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c362-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Motowizja HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c334-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Extreme Sports HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c385-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Sport Klub HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c501-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,FightKlub HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c471-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,FightBox HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c413-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Fight Sports HD
+#EXTGRP:Uncategorized
+https://my.teleelevidenie.com/play/hls-custom-c1663-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Golf Channel
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c534-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Games HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c405-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP Info HD
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c374-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVN 24 HD
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c435-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVN 24 BiS HD
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c366-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat News HD
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c535-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat News 2
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c423-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TV Republika
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c358-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Wydarzenia 24 HD
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c538-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,wPolsce.pl
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c539-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP ABC
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c462-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVP ABC HD
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c1811-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Disney XD
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c361-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Disney Channel HD
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c370-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Disney Junior
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c422-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Cartoon Network HD
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c470-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Baby TV
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c403-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,BBC Cbeebies
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c411-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat JimJam
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c446-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TeenNick
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c1596-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Nick Jr
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c404-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c467-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Nicktoons HD
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c473-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Boomerang HD
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c509-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,MiniMini+ HD
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c388-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Teletoon+ HD
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c524-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Eska TV
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c340-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Eska Rock TV
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c357-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Eska TV Extra
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c465-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,VOX Music TV
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c363-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Disco Polo Music
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c367-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polo TV
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c396-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Kino Polska Muzyka
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c368-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,MTV Polska HD
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c335-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,MTV 80s
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c209-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,MTV 90s
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c240-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,MTV Live HD
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c441-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,MTV Music 24
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c409-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,club MTV
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c131-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Music Box Polska
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c1595-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,MTV Hits
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c311-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Eurodance 90
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c1804-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Stingray iConcerts HD
+#EXTGRP:HD Каналы
+https://my.teleelevidenie.com/play/hls-custom-c651-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,MTV 00s
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c456-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Gold TV
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c410-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Nuta TV
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c453-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Nuta Gold
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c1805-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Stars TV
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c472-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Power TV
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c478-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Polsat Music HD
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c479-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,4Fun Dance
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c493-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,4FUN.TV
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c499-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,4Fun Kids
+#EXTGRP:Dla dzieci
+https://my.teleelevidenie.com/play/hls-custom-c505-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Mezzo
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c51-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Mezzo Live HD
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c101-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,4ever music HD
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c1110-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,EU Music HD
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c1305-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,First Music Channel HD
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c580-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Music Box HD Ukraine
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c1289-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,VIVA
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c1306-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Trace Urban HD
+#EXTGRP:Muzyka
+https://my.teleelevidenie.com/play/hls-custom-c1122-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,PPV: NO EVENT
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c1718-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,PPV: KSW 76
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c1000-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,PPV: NO EVENT
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c1317-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Home TV
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c551-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,NASA TV UHD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c882-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TV Trwam HD
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c665-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Docubox HD
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c683-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,CNN International
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c275-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,CNN International HD
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c842-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,CNBC Europe HD
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c938-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,DW English HD
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c1309-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,StudioMed TV HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c878-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Biznes24 HD
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c998-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,TVO
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c879-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Fox News
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c891-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,BBC World News Europe HD
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c744-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Love Nature 4K
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c853-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Museum 4K
+#EXTGRP:Dokument
+https://my.teleelevidenie.com/play/hls-custom-c852-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Insight UHD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c985-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] Antyradio
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1031-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] Chillizet
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1032-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] Melo Radio
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1034-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] Muzo FM
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1035-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] Radio Zet
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1036-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] Tok FM
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1037-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] RMF FM
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1040-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] RMF Classic
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1039-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] RMF Maxxx
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1041-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] Polskie Radio 24
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1045-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] Polskie Radio Jedynka
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1038-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] Polskie Radio Dwójka
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1044-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] Polskie Radio Trójka
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1042-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] Radio Zlote Przeboje
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1043-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] Jasna Góra
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1033-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] Radio Nowy Świat
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1067-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO_PL] Newonce
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1099-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,[RADIO PL] Radio 357
+#EXTGRP:Radio
+https://my.teleelevidenie.com/play/hls-custom-c1382-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,NBA TV HD
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c944-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Stingray Classica HD
+#EXTGRP:HD Каналы
+https://my.teleelevidenie.com/play/hls-custom-c1207-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Love Nature HD [RU]
+#EXTGRP:HD Каналы
+https://my.teleelevidenie.com/play/hls-custom-c1225-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,MyZen 4K
+#EXTGRP:Uncategorized
+https://my.teleelevidenie.com/play/hls-custom-c854-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Stingray CMusic HD
+#EXTGRP:HD Каналы
+https://my.teleelevidenie.com/play/hls-custom-c1234-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,4K Heritage
+#EXTGRP:HD Каналы
+https://my.teleelevidenie.com/play/hls-custom-c1268-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Fashion One HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c710-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Fashion TV 4K
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c1544-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Home 4K
+#EXTGRP:Popularne
+https://my.teleelevidenie.com/play/hls-custom-c1385-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,English Club TV HD
+#EXTGRP:HD Каналы
+https://my.teleelevidenie.com/play/hls-custom-c294-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Fast & FunBox HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c570-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,eSports One HD
+#EXTGRP:Uncategorized
+https://my.teleelevidenie.com/play/hls-custom-c1274-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Travel XP HD
+#EXTGRP:Uncategorized
+https://my.teleelevidenie.com/play/hls-custom-c707-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Duck TV [ENG]
+#EXTGRP:Uncategorized
+https://my.teleelevidenie.com/play/hls-custom-c1180-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,MOOZ 4K
+#EXTGRP:HD Каналы
+https://my.teleelevidenie.com/play/hls-custom-c1278-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Antena Polska
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c1539-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Antena Polska HD
+#EXTGRP:Rozrywka
+https://my.teleelevidenie.com/play/hls-custom-c1800-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,ESports Revolution HD
+#EXTGRP:Uncategorized
+https://my.teleelevidenie.com/play/hls-custom-c1435-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,360TuneBox
+#EXTGRP:Uncategorized
+https://my.teleelevidenie.com/play/hls-custom-c1453-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,BelSat TV
+#EXTGRP:Uncategorized
+https://my.teleelevidenie.com/play/hls-custom-c1477-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Al Jazeera English
+#EXTGRP:Uncategorized
+https://my.teleelevidenie.com/play/hls-custom-c1462-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Al Jazeera English HD
+#EXTGRP:Uncategorized
+https://my.teleelevidenie.com/play/hls-custom-c1461-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Kujawy TV
+#EXTGRP:Informacje
+https://my.teleelevidenie.com/play/hls-custom-c1601-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Deluxe music HD
+#EXTGRP:Uncategorized
+https://my.teleelevidenie.com/play/hls-custom-c593-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Deluxe music
+#EXTGRP:Uncategorized
+https://my.teleelevidenie.com/play/hls-custom-c836-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,VSports 1
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c1774-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,VSports 2
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c1775-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,VSports 3
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c1806-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,VSports 4
+#EXTGRP:Sport
+https://my.teleelevidenie.com/play/hls-custom-c1807-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,UA TV HD
+#EXTGRP:HD Каналы
+https://my.teleelevidenie.com/play/hls-custom-c225-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Интер+ HD
+#EXTGRP:Українські
+https://my.teleelevidenie.com/play/hls-custom-c1019-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,ICTV
+#EXTGRP:Українські
+https://my.teleelevidenie.com/play/hls-custom-c1020-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Интер
+#EXTGRP:Українські
+https://my.teleelevidenie.com/play/hls-custom-c1018-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,1+1 International
+#EXTGRP:Українські
+https://my.teleelevidenie.com/play/hls-custom-c1003-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Espreso TV 
+#EXTGRP:Українські
+https://my.teleelevidenie.com/play/hls-custom-c1125-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Украина 24 HD
+#EXTGRP:HD Каналы
+https://my.teleelevidenie.com/play/hls-custom-c1401-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,Интер HD
+#EXTGRP:HD Каналы
+https://my.teleelevidenie.com/play/hls-custom-c1625-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,ICTV HD
+#EXTGRP:HD Каналы
+https://my.teleelevidenie.com/play/hls-custom-c1621-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
+#EXTINF:0,СТБ HD
+#EXTGRP:HD Каналы
+https://my.teleelevidenie.com/play/hls-custom-c1623-t93b462718ebc5594059d4c1b63bbeed538e5676ac3e1f4fb6c8555790720fb5d.m3u8
