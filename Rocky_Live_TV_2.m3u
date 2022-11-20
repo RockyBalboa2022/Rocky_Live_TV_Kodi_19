@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:0 tvg-id="13 Ulica" tvg-name="13 Ulica" tvg-logo="http://logo.plusx.tv/logo/13%20Ulica%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,13 Ulica HD
 http://cdnx1.plusx.tv:8880/325/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="4FUN DANCE" tvg-name="4FUN DANCE" tvg-logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png" timeshift="7" catchup="fs" group-title="Muzyka" ,4FUN DANCE
@@ -129,6 +128,8 @@ http://cdnx1.plusx.tv:8880/325jun/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 http://cdnx1.plusx.tv:8880/275/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-logo="http://logo.plusx.tv/logo/E!%20Entertainment.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,E! Entertainment HD
 http://cdnx1.plusx.tv:8880/273/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+#EXTINF:0 tvg-id="tvp4k" tvg-name="tvp4k" tvg-logo="https://epg.ovh/logo/TVP+4K.png" timeshift="7" catchup="fs" group-title="4k" ,TVP 4K
+http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png" timeshift="7" catchup="fs" group-title="4k" ,Eleven Sports 1 4K
 http://cdnx1.plusx.tv:8880/325es4k/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png" timeshift="7" catchup="fs" group-title="Sport" ,Eleven Sports 1 HD
@@ -139,7 +140,7 @@ http://cdnx1.plusx.tv:8880/270/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 http://cdnx1.plusx.tv:8880/269/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png" timeshift="7" catchup="fs" group-title="Sport" ,Eleven Sports 4 HD
 http://cdnx1.plusx.tv:8880/272/mono.m3u8?token=b457d9d9a2dd39e2fa3333
-#EXTINF:0 tvg-id="xtremetv" tvg-name="xtremetv" tvg-logo="https://epg.ovh/logo/Xtreme+TV.png" timeshift="7" catchup="fs" group-title="Sport" ,Xtremetv HD
+#EXTINF:0 tvg-id="Xtreme TV" tvg-name="Xtreme TV" tvg-logo="https://epg.ovh/logo/Xtreme+TV.png" timeshift="7" catchup="fs" group-title="Sport" ,Xtremetv HD
 http://cdnx1.plusx.tv:8880/xtreamtv/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="Epic Drama" tvg-name="Be1 Alt" tvg-logo="http://logo.plusx.tv/logo/Epic%20Drama.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Epic Drama HD
 http://cdnx1.plusx.tv:8880/268/mono.m3u8?token=b457d9d9a2dd39e2fa3333
@@ -231,10 +232,14 @@ http://cdnx1.plusx.tv:8880/MTVcub/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 http://cdnx1.plusx.tv:8880/MTVEurope/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="MTV Polska" tvg-name="MTV" tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png" timeshift="7" catchup="fs" group-title="Muzyka" ,MTV Polska HD
 http://cdnx1.plusx.tv:8880/227/mono.m3u8?token=b457d9d9a2dd39e2fa3333
-#EXTINF:0 tvg-id="ultrahd" tvg-name="ultrahd" tvg-logo="https://epg.ovh/logo/Ultra+TV.png" timeshift="7" catchup="fs" group-title="Muzyka" ,Ultra TV HD
+#EXTINF:0 tvg-id="Ultra-TV" tvg-name="Ultra-TV" tvg-logo="https://epg.ovh/logo/Ultra+TV.png" timeshift="7" catchup="fs" group-title="4k" ,Ultra TV 4k
 http://cdnx1.plusx.tv:8880/ultrahd/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+#EXTINF:0 tvg-id="Funbox UHD" tvg-name="Funbox UHD" tvg-logo="http://logo.plusx.tv/logo/dark_785.png_oxoooooooo_92x92.png" timeshift="7" catchup="fs" group-title="4k" ,Funbox UHD
+http://cdnx1.plusx.tv:8880/funbox4k/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="Vox Music TV" tvg-name="vox-music-tv" tvg-logo="http://logo.plusx.tv/logo/VOX%20Music%20TV.png" timeshift="7" catchup="fs" group-title="Muzyka" ,VOX Music TV
 http://cdnx1.plusx.tv:8880/123v/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+#EXTINF:0 tvg-id="JAZZ.pl" tvg-name="JAZZ.pl" tvg-logo="https://epg.ovh/logo/Jazz+HD.png" timeshift="7" catchup="fs" group-title="Muzyka" ,Jazz HD
+http://cdnx1.plusx.tv:8880/jazz7/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="METRO" tvg-name="Metro" tvg-logo="http://logo.plusx.tv/logo/Metro%20TV.png" timeshift="7" catchup="fs" group-title="Popularny" ,Metro
 http://cdnx1.plusx.tv:8880/232/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="Minimini+" tvg-name="Mini Mini" tvg-logo="http://logo.plusx.tv/logo/MiniMini+%20HD.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,MiniMini+ HD
@@ -293,7 +298,7 @@ http://cdnx1.plusx.tv:8880/203/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 http://cdnx1.plusx.tv:8880/202/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="Polsat Music" tvg-name="Polsat Music" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Music%20HD.png" timeshift="7" catchup="fs" group-title="Muzyka" ,Polsat Music HD
 http://cdnx1.plusx.tv:8880/201/mono.m3u8?token=b457d9d9a2dd39e2fa3333
-#EXTINF:0 tvg-id="news24" tvg-name="news24" tvg-logo="https://epg.ovh/logo/News24.png" timeshift="7" catchup="fs" group-title="Informacje" ,News24 HD
+#EXTINF:0 tvg-id="News 24" tvg-name="News 24" tvg-logo="https://epg.ovh/logo/News24.png" timeshift="7" catchup="fs" group-title="Informacje" ,News24 HD
 http://cdnx1.plusx.tv:8880/news24hd/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="Echo24.pl" tvg-name="Echo24.pl" tvg-logo="https://epg.ovh/logo/TV+echo+24.png" timeshift="7" catchup="fs" group-title="Informacje" ,Echo24 HD
 http://cdnx1.plusx.tv:8880/etho24/mono.m3u8?token=b457d9d9a2dd39e2fa3333
@@ -385,10 +390,14 @@ http://cdnx1.plusx.tv:8880/159/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 http://cdnx1.plusx.tv:8880/158/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="TV Republika" tvg-name="TV Republika" tvg-logo="http://logo.plusx.tv/logo/TV%20Republika.png" timeshift="7" catchup="fs" group-title="Informacje" ,TV Republika
 http://cdnx1.plusx.tv:8880/157/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+#EXTINF:0 tvg-id="TVP World" tvg-name="TVP World" tvg-logo="https://epg.ovh/logo/TVP+World.png" timeshift="7" catchup="fs" group-title="Informacje" ,TVP World HD
+http://cdnx1.plusx.tv:8880/tvpworldhd/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="TV 4" tvg-name="TV4" tvg-logo="http://logo.plusx.tv/logo/TV%204.png" timeshift="7" catchup="fs" group-title="Popularny" ,TV 4 HD
 http://cdnx1.plusx.tv:8880/161/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="TV 6" tvg-name="TV 6" tvg-logo="http://logo.plusx.tv/logo/TV%206%20HD.png" timeshift="7" catchup="fs" group-title="Popularny" ,TV 6 HD
 http://cdnx1.plusx.tv:8880/160/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+#EXTINF:0 tvg-id="TVN 24" tvg-name="TVN 24" tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png" timeshift="7" catchup="fs" group-title="Informacje" ,TVN 24 HD
+http://cdnx1.plusx.tv:8880/153/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="TVN 24 BiS" tvg-name="TVN CNBC Biznes" tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20BiS%20HD.png" timeshift="7" catchup="fs" group-title="Informacje" ,TVN 24 BiS HD
 http://cdnx1.plusx.tv:8880/154/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="TVN 24" tvg-name="TVN 24" tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png" timeshift="7" catchup="fs" group-title="Informacje" ,TVN 24 HD
@@ -401,7 +410,7 @@ http://cdnx1.plusx.tv:8880/149/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 http://cdnx1.plusx.tv:8880/abc2/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="TVPKobieta.pl" tvg-name="TVPKobieta.pl" tvg-logo="https://epg.ovh/logo/TVP+Kobieta.png" timeshift="7" catchup="fs" group-title="Popularny" ,TVP Kobieta HD
 http://cdnx1.plusx.tv:8880/TVPKobieta/mono.m3u8?token=b457d9d9a2dd39e2fa3333
-#EXTINF:0 tvg-id="iTVNExtra.pl" tvg-name="iTVNExtra.pl" tvg-logo="https://epg.ovh/logo/iTVN+extra.png" timeshift="7" catchup="fs" group-title="Popularny" ,iTVN Extra HD
+#EXTINF:0 tvg-id="iTVN extra" tvg-name="iTVN extra" tvg-logo="https://epg.ovh/logo/iTVN+extra.png" timeshift="7" catchup="fs" group-title="Popularny" ,iTVN Extra HD
 http://cdnx1.plusx.tv:8880/tvnextra/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="TVN Style" tvg-name="TVN Style" tvg-logo="http://logo.plusx.tv/logo/TVN%20Style%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,TVN Style HD
 http://cdnx1.plusx.tv:8880/147/mono.m3u8?token=b457d9d9a2dd39e2fa3333
@@ -611,7 +620,7 @@ http://cdnx1.plusx.tv:8880/6048/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 http://cdnx1.plusx.tv:8880/6049/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="viaplay" tvg-name="viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png" timeshift="7" catchup="fs" group-title="Sport" ,ViaPlay 46 HD
 http://cdnx1.plusx.tv:8880/6050/mono.m3u8?token=b457d9d9a2dd39e2fa3333
-#EXTINF:0 tvg-id="Fightevent" tvg-name="Fightevent" tvg-logo="https://epg.ovh/logo/KSW%20PL.png" timeshift="7" catchup="fs" group-title="Sport" ,PPV Event Fight 1 HD
+#EXTINF:0 tvg-id="KSW" tvg-name="KSW" tvg-logo="https://epg.ovh/logo/KSW%20PL.png" timeshift="7" catchup="fs" group-title="Sport" ,PPV Event Fight 1 HD
 http://cdnx1.plusx.tv:8880/325m/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 tvg-id="Fightevent" tvg-name="Fightevent" tvg-logo="https://epg.ovh/logo/FAME+MMA+HD.png" timeshift="7" catchup="fs" group-title="Sport" ,PPV Event Fight 2 HD
 http://cdnx1.plusx.tv:8880/325m2/mono.m3u8?token=b457d9d9a2dd39e2fa3333
