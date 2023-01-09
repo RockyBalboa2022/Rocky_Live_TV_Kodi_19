@@ -1,0 +1,348 @@
+#EXTM3U
+
+#EXTINF:0,(PL) TVP 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9931&extension=ts
+#EXTINF:0,(PL) TVP 1 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=15609&extension=ts
+#EXTINF:0,(PL) TVP 2 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=15608&extension=ts
+#EXTINF:0,(PL) TVP 3
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9929&extension=ts
+#EXTINF:0,(PL) TV4 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9930&extension=ts
+#EXTINF:0,(PL) TV6 HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63685&extension=ts
+#EXTINF:0,(PL) TVN 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9940&extension=ts
+#EXTINF:0,(PL) TVN 7 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9937&extension=ts
+#EXTINF:0,(PL) TTV 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=38208&extension=ts
+#EXTINF:0,(PL) TVS
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22071&extension=ts
+#EXTINF:0,(PL) TVP Polonia
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63686&extension=ts
+#EXTINF:0,(PL) Canal Plus Domo 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63671&extension=ts
+#EXTINF:0,(PL) Comedy Central 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=14233&extension=ts
+#EXTINF:0,(PL) BBC First 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=65480&extension=ts
+#EXTINF:0,(PL) TVP ABC
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9955&extension=ts
+#EXTINF:0,(PL) Zoom TV
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63640&extension=ts
+#EXTINF:0,(PL) Fokus TV HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=16551&extension=ts
+#EXTINF:0,(PL) wPolsce.pl
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63639&extension=ts
+#EXTINF:0,(PL) TVN 24 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9939&extension=ts
+#EXTINF:0,(PL) TVN 24 Bis
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63638&extension=ts
+#EXTINF:0,(PL) Polsat News 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9941&extension=ts
+#EXTINF:0,(PL) Polsat News 2
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63634&extension=ts
+#EXTINF:0,(PL) TV Republika
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9942&extension=ts
+#EXTINF:0,(PL) TVP Info 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21897&extension=ts
+#EXTINF:0,(PL) Red Carpet TV
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63635&extension=ts
+#EXTINF:0,(PL) Tele5
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=102794&extension=ts
+#EXTINF:0,(PL) Wydarzenia 24
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=102793&extension=ts
+#EXTINF:0,(PL) Ci Polsat 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=102791&extension=ts
+#EXTINF:0,(PL) Antena
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=102786&extension=ts
+#EXTINF:0,(PL) TVN Turbo 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9932&extension=ts
+#EXTINF:0,(PL) Polsat Sport Extra 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22069&extension=ts
+#EXTINF:0,(PL) Polsat Sport Fight 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22087&extension=ts
+#EXTINF:0,(PL) Canal+ Sport 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21909&extension=ts
+#EXTINF:0,(PL) Canal+ Sport 2 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21922&extension=ts
+#EXTINF:0,(PL) Canal+ Sport 3 HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63648&extension=ts
+#EXTINF:0,(PL) Canal+ Sport 4 HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63649&extension=ts
+#EXTINF:0,(PL) nSport+ 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=15616&extension=ts
+#EXTINF:0,(PL) Sportklub HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63658&extension=ts
+#EXTINF:0,(PL) Eurosport 1 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22081&extension=ts
+#EXTINF:0,(PL) Eurosport 2 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63650&extension=ts
+#EXTINF:0,(PL) Polsat Sport 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22086&extension=ts
+#EXTINF:0,(PL) Extreme Sports HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63654&extension=ts
+#EXTINF:0,(PL) Polsat Sport News HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63657&extension=ts
+#EXTINF:0,(PL) Polsat Sport Premium 1 HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63651&extension=ts
+#EXTINF:0,(PL) Polsat Sport Premium 2 HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63652&extension=ts
+#EXTINF:0,(PL) Polsat Sport Premium PPV 4 HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63653&extension=ts
+#EXTINF:0,(PL) Eleven Sports 1 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21904&extension=ts
+#EXTINF:0,(PL) Eleven Sports 2 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21903&extension=ts
+#EXTINF:0,(PL) Eleven Sports 3 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=41766&extension=ts
+#EXTINF:0,(PL) Eleven Sports 4 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=41767&extension=ts
+#EXTINF:0,(PL) Golf Channel HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63656&extension=ts
+#EXTINF:0,(PL) Fightbox HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63655&extension=ts
+#EXTINF:0,(PL) Fight Klub 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=61671&extension=ts
+#EXTINF:0,(PL) TVP Sport 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21993&extension=ts
+#EXTINF:0,(PL) TVP Seriale
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9924&extension=ts
+#EXTINF:0,(PL) Polsat 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9950&extension=ts
+#EXTINF:0,(PL) Polsat 2 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9949&extension=ts
+#EXTINF:0,(PL) Polsat Film 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9947&extension=ts
+#EXTINF:0,(PL) Polsat Rodzina HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63679&extension=ts
+#EXTINF:0,(PL) Super Polsat 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=61682&extension=ts
+#EXTINF:0,(PL) TVN Fabula 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9935&extension=ts
+#EXTINF:0,(PL) TV Puls 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9943&extension=ts
+#EXTINF:0,(PL) TV Puls 2 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=61681&extension=ts
+#EXTINF:0,(PL) Canal+ 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22068&extension=ts
+#EXTINF:0,(PL) Canal 1 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=65481&extension=ts
+#EXTINF:0,(PL) Canal+ Family 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21906&extension=ts
+#EXTINF:0,(PL) Canal+ Film 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21907&extension=ts
+#EXTINF:0,(PL) Canal+ Seriale 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21908&extension=ts
+#EXTINF:0,(PL) Filmbox Extra 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=61673&extension=ts
+#EXTINF:0,(PL) Filmbox Premium 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=16549&extension=ts
+#EXTINF:0,(PL) Filmbox Action
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9957&extension=ts
+#EXTINF:0,(PL) Filmbox Family
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=16547&extension=ts
+#EXTINF:0,(PL) Filmbox Arthouse
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22089&extension=ts
+#EXTINF:0,(PL) Cinemax 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22090&extension=ts
+#EXTINF:0,(PL) Cinemax 2 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=15623&extension=ts
+#EXTINF:0,(PL) HBO 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21902&extension=ts
+#EXTINF:0,(PL) HBO 2 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22078&extension=ts
+#EXTINF:0,(PL) HBO 3 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22091&extension=ts
+#EXTINF:0,(PL) Kino Polska
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22076&extension=ts
+#EXTINF:0,(PL) Fox Comedy 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=15620&extension=ts
+#EXTINF:0,(PL) Ale Kino 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21994&extension=ts
+#EXTINF:0,(PL) SCI FI HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63687&extension=ts
+#EXTINF:0,(PL) SciFi Universal
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=65482&extension=ts
+#EXTINF:0,(PL) Kino TV 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=61670&extension=ts
+#EXTINF:0,(PL) AXN 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22096&extension=ts
+#EXTINF:0,(PL) AXN White
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22095&extension=ts
+#EXTINF:0,(PL) AXN Black
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22070&extension=ts
+#EXTINF:0,(PL) AXN Spin HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63641&extension=ts
+#EXTINF:0,(PL) AMC
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63643&extension=ts
+#EXTINF:0,(PL) Fox 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=59942&extension=ts
+#EXTINF:0,(PL) Epic Drama HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63647&extension=ts
+#EXTINF:0,(PL) Lifetime HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63674&extension=ts
+#EXTINF:0,(PL) 13 Ulica HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63642&extension=ts
+#EXTINF:0,(PL) CBS Action
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9962&extension=ts
+#EXTINF:0,(PL) TNT HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22074&extension=ts
+#EXTINF:0,(PL) Sundance TV HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63683&extension=ts
+#EXTINF:0,(PL) Paramount Channel HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63676&extension=ts
+#EXTINF:0,(PL) Romance TV 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=23072&extension=ts
+#EXTINF:0,(PL) Active Family
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63645&extension=ts
+#EXTINF:0,(PL) Stopklatka TV
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63682&extension=ts
+#EXTINF:0,(PL) Warner Tv
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=102796&extension=ts
+#EXTINF:0,(PL) MTV Polska HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63659&extension=ts
+#EXTINF:0,(PL) MTV
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63627&extension=ts
+#EXTINF:0,(PL) Power TV 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=61678&extension=ts
+#EXTINF:0,(PL) 4Fun TV
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63664&extension=ts
+#EXTINF:0,(PL) 4Fun Gold Hits
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63663&extension=ts
+#EXTINF:0,(PL) 4Fun Dance
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63662&extension=ts
+#EXTINF:0,(PL) Eska Rock TV
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63624&extension=ts
+#EXTINF:0,(PL) Eska TV Extra
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63623&extension=ts
+#EXTINF:0,(PL) Polsat Music HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63678&extension=ts
+#EXTINF:0,(PL) Kino Polska Muzyka
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63673&extension=ts
+#EXTINF:0,(PL) Music VOX
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63675&extension=ts
+#EXTINF:0,(PL) Disco Polo Music
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63670&extension=ts
+#EXTINF:0,(PL) Eska TV
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22085&extension=ts
+#EXTINF:0,(PL) Nuta TV 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=61675&extension=ts
+#EXTINF:0,(PL) Metro HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63626&extension=ts
+#EXTINF:0,(PL) MTV 00s
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63688&extension=ts
+#EXTINF:0,(PL) Polo TV
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63632&extension=ts
+#EXTINF:0,(PL) Stars TV
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63636&extension=ts
+#EXTINF:0,(PL) Music Box Polska
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=102781&extension=ts
+#EXTINF:0,(PL) Kuchnia+ 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21901&extension=ts
+#EXTINF:0,(PL) Baby TV
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63666&extension=ts
+#EXTINF:0,(PL) JimJam
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63677&extension=ts
+#EXTINF:0,(PL) Boomerang
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22094&extension=ts
+#EXTINF:0,(PL) Cartoon Network 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22093&extension=ts
+#EXTINF:0,(PL) Disney XD
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22092&extension=ts
+#EXTINF:0,(PL) Disney Junior
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22084&extension=ts
+#EXTINF:0,(PL) Disney Channel
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21905&extension=ts
+#EXTINF:0,(PL) Nick JR
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63628&extension=ts
+#EXTINF:0,(PL) Nickelodeon
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=16558&extension=ts
+#EXTINF:0,(PL) Nicktoons
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63629&extension=ts
+#EXTINF:0,(PL) teleTOON HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63661&extension=ts
+#EXTINF:0,(PL) MiniMini+ 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21900&extension=ts
+#EXTINF:0,(PL) BBC CBeebies HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63689&extension=ts
+#EXTINF:0,(PL) Polsat JimJam
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=102797&extension=ts
+#EXTINF:0,(PL) 4Fun Kids
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=102782&extension=ts
+#EXTINF:0,(PL) Polsat Play 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9946&extension=ts
+#EXTINF:0,(PL) Polsat Cafe 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9948&extension=ts
+#EXTINF:0,(PL) TVN Style 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9933&extension=ts
+#EXTINF:0,(PL) TVP Rozrywka
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9917&extension=ts
+#EXTINF:0,(PL) TVP Kultura
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22072&extension=ts
+#EXTINF:0,(PL) Da Vinci
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63669&extension=ts
+#EXTINF:0,(PL) E! Entertainment
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63622&extension=ts
+#EXTINF:0,(PL) CBS Reality 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9965&extension=ts
+#EXTINF:0,(PL) CBS Europa HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63668&extension=ts
+#EXTINF:0,(PL) Nowa TV HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63630&extension=ts
+#EXTINF:0,(PL) National Geographic 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=21899&extension=ts
+#EXTINF:0,(PL) Nat Geo Wild 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22080&extension=ts
+#EXTINF:0,(PL) Discovery Science 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22082&extension=ts
+#EXTINF:0,(PL) Discovery 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=15622&extension=ts
+#EXTINF:0,(PL) Discovery Life 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9961&extension=ts
+#EXTINF:0,(PL) Discovery Historia
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=9951&extension=ts
+#EXTINF:0,(PL) Discovery Turbo Xtra 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=15621&extension=ts
+#EXTINF:0,(PL) BBC Earth 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22079&extension=ts
+#EXTINF:0,(PL) Polsat Doku HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63633&extension=ts
+#EXTINF:0,(PL) Polsat Viasat Explore HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63680&extension=ts
+#EXTINF:0,(PL) Polsat Viasat History 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=61672&extension=ts
+#EXTINF:0,(PL) Polsat Viasat Nature HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63681&extension=ts
+#EXTINF:0,(PL) Planete+ HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63631&extension=ts
+#EXTINF:0,(PL) Animal Planet 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=22083&extension=ts
+#EXTINF:0,(PL) Travel Channel HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63637&extension=ts
+#EXTINF:0,(PL) Adventure 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=61674&extension=ts
+#EXTINF:0,(PL) HGTV 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=31651&extension=ts
+#EXTINF:0,(PL) Food Network HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63625&extension=ts
+#EXTINF:0,(PL) History 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=15618&extension=ts
+#EXTINF:0,(PL) Investigation Discovery 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=61668&extension=ts
+#EXTINF:0,(PL) Investigation Discovery HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63672&extension=ts
+#EXTINF:0,(PL) DTX
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63621&extension=ts
+#EXTINF:0,(PL) TLC HD+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63684&extension=ts
+#EXTINF:0,(PL) TVP Historia
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=16554&extension=ts
+#EXTINF:0,(PL) ATM Rozrywka TV
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=63665&extension=ts
+#EXTINF:0,(PL) Nat Geo People 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=102792&extension=ts
+#EXTINF:0,(PL) History 2 4K+
+http://devtv.nl:80/play/live.php?mac=00:1A:79:67:b7:b1&stream=102785&extension=ts
